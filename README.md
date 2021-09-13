@@ -1,2 +1,2 @@
 # BeeHoney
-Jogo de ping pong em python.
+BeeHoney desenvolvido em python.
